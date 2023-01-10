@@ -36,8 +36,8 @@ else:
 BOT_TOKEN = getenv("BOT_TOKEN", "")
 BOT_NAME = getenv("BOT_NAME", "")
 
-API_ID = int(getenv("API_ID", ""))
-API_HASH = getenv("API_HASH", "")
+API_ID = int(getenv("API_ID", "11973721"))
+API_HASH = getenv("API_HASH", "5264bf4663e9159565603522f58d3c18")
 MONGO_DB_URL = getenv("MONGO_DB_URL", "")
 OWNER_NAME = getenv("OWNER_NAME", "")
 OWNER_USERNAME = getenv("OWNER_USERNAME", "")
